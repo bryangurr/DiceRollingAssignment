@@ -49,5 +49,6 @@ internal class Program
                 Console.WriteLine($"{key}: ");
             }
         }
+        Console.WriteLine("Thank you for using the dice throwing simulator. Goodbye!");
     }
 }
