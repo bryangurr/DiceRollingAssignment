@@ -12,3 +12,18 @@ C:\Users\bryan\Box\2025 Winter\IS 413\DiceRolling\DiceRolling\obj\Debug\net9.0\r
 C:\Users\bryan\Box\2025 Winter\IS 413\DiceRolling\DiceRolling\obj\Debug\net9.0\DiceRolling.pdb
 C:\Users\bryan\Box\2025 Winter\IS 413\DiceRolling\DiceRolling\obj\Debug\net9.0\DiceRolling.genruntimeconfig.cache
 C:\Users\bryan\Box\2025 Winter\IS 413\DiceRolling\DiceRolling\obj\Debug\net9.0\ref\DiceRolling.dll
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\bin\Debug\net9.0\DiceRolling.exe
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\bin\Debug\net9.0\DiceRolling.deps.json
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\bin\Debug\net9.0\DiceRolling.runtimeconfig.json
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\bin\Debug\net9.0\DiceRolling.dll
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\bin\Debug\net9.0\DiceRolling.pdb
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\obj\Debug\net9.0\DiceRolling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\obj\Debug\net9.0\DiceRolling.AssemblyInfoInputs.cache
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\obj\Debug\net9.0\DiceRolling.AssemblyInfo.cs
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\obj\Debug\net9.0\DiceRolling.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\obj\Debug\net9.0\DiceRolling.sourcelink.json
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\obj\Debug\net9.0\DiceRolling.dll
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\obj\Debug\net9.0\refint\DiceRolling.dll
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\obj\Debug\net9.0\DiceRolling.pdb
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\obj\Debug\net9.0\DiceRolling.genruntimeconfig.cache
+C:\Users\bryan\Desktop\DiceRolling\DiceRolling\obj\Debug\net9.0\ref\DiceRolling.dll
