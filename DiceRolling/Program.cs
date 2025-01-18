@@ -15,7 +15,6 @@ internal class Program
         int[] results = new int[numRolls];
 
         Console.WriteLine("Perfect! We will roll " + numRolls + " dice.");
-        rollDice rollDice = new rollDice();
         results = rollDice.Roll(numRolls, 2, 6);
 
         Dictionary<int, int> rollCounts = new Dictionary<int, int>();
